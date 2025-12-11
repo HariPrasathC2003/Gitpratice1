@@ -1,0 +1,19 @@
+Step 1 : Start 
+Step 2 : declare n 
+Step 3 : initialize i =1 
+Step 4 : Repeat until i > = n
+Step 5 : print i
+Step 6 : Increment i
+Step 7 : stop
+
+
+
+
+Step 1 : Start 
+Step 2 : declare n 
+Step 3 : Input n
+Step 4 : declare counter and initialize with 1
+Step 5 : check if counter <=n then
+Step 6 : print counter
+Step 7 : Increment counter with 1 go to step 5
+Step 8 : End
